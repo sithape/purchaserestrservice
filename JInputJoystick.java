@@ -1,5 +1,5 @@
 package joystick;
-
+package joystick;
 import java.util.ArrayList;
 import net.java.games.input.Component;
 import net.java.games.input.Component.Identifier;
@@ -605,3 +605,4 @@ public class JInputJoystick {
         return yValueRightJoystickPercentage;
     }
 }
+
